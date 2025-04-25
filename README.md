@@ -54,6 +54,8 @@ Dieses Projekt beschreibt die vollständige Umsetzung eines System-on-Chip (SoC)
 
 ### 🧩 Wichtige Komponenten
 
+![image](https://github.com/user-attachments/assets/896ff930-d654-4511-b4de-3a2882415a0f)
+
 #### ✅ SPI-Treiber (OLED-Ansteuerung)
 
 Implementierung eines SPI-Treibers mit konfigurierbarer Rahmenbreite und Slaveselection.
@@ -78,12 +80,6 @@ Ereignisgesteuertes Design über ISR und ein State-Machine-Konzept. Dadurch entf
 
 > 🔍 Siehe `Bericht_Versuch_1.pdf`, Quelltext 2.2, Seite 11  
 > 📊 Vergleich Polling vs. Interrupt: Tabelle 1, Seite 9
-
----
-
-### 📷 Systemabbildung
-
-*(Optional: Hier kann ein Blockdiagramm oder Foto der aufgebauten Hardware eingefügt werden.)*
 
 ---
 
